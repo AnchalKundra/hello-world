@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> ThankYou, Happy Learning </h1>
+  <h1> ThankYou, Pipeline Created </h1>
 
   
 </form>
